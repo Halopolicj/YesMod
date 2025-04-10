@@ -1,0 +1,8 @@
+displayName: "Yes Mod"
+author: "Me"
+name: "yesmod"
+main: "yesmod.YesMod"
+description: "sex"
+version: "1"
+
+minGameVersion: 145
